@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NDTanalyzeReact/.idea/NDTanalyzeReact.iml" filepath="$PROJECT_DIR$/../NDTanalyzeReact/.idea/NDTanalyzeReact.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/task-nws-lab2.iml" filepath="$PROJECT_DIR$/.idea/task-nws-lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../type2/.idea/type2.iml" filepath="$PROJECT_DIR$/../type2/.idea/type2.iml" />
     </modules>
   </component>
 </project>
