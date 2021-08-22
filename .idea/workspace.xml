@@ -2,33 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f040766-6308-4a64-9442-fe9621de3ed8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Router.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/category/Category.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/category/Category.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/Images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/Images.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/CategoryPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/Service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/Store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/category/actionCreators.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/category/actionTypes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/category/reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/image/actionCreators.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/image/actionTypes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/image/reducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/type.d.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../type2/src/components/modal/Modal.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../type2/src/store/Store.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../type2/src/store/calendar/actionCreators.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../type2/src/store/calendar/actionTypes.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../type2/src/store/calendar/reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/task-nws-lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/task-nws-lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Router.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/category/Category.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/category/Category.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/images/Images.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/images/Images.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CategoryPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CategoryPage.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../type2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../type2/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../type2/.idea/type2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../type2/.idea/type2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../type2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../type2/package-lock.json" afterDir="false" />
@@ -60,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/images" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/../type2/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -84,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629532906740</updated>
       <workItem from="1629532908577" duration="65000" />
-      <workItem from="1629533015233" duration="13798000" />
+      <workItem from="1629533015233" duration="14123000" />
+      <workItem from="1629613198192" duration="214000" />
     </task>
     <servers />
   </component>

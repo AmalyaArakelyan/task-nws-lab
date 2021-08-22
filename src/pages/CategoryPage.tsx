@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 import Category from '../components/category/Category'
 import Images from '../components/images/Images'
 

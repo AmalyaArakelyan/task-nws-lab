@@ -22,7 +22,7 @@ export const Images: React.FC<Props> = () => {
         shallowEqual
     )
     // @ts-ignore
-    useEffect(() => dispatch(getImages(selected,page)), [selected, page])
+    useEffect(() => dispatch(getImages(selected,page)), [selected, page, dispatch])
 
     const handleSetPage = () =>{
         dispatch(setPage())
@@ -33,7 +33,7 @@ export const Images: React.FC<Props> = () => {
             <ul >
                 {images?.map(image =>{
                     return <li key={image.id}>
-                        <img src={image.url}/>
+                        <img alt={image.id} src={image.url}/>
                     </li>
                 })
                 }

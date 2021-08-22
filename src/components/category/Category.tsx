@@ -23,7 +23,7 @@ export const Category: React.FC<Props> = ({id}) => {
         shallowEqual
     )
     // @ts-ignore
-    useEffect(() => dispatch(getCategories()), [])
+    useEffect(() => dispatch(getCategories()), [dispatch])
 
     const handleSelectCategory = () =>{
         debugger
@@ -32,7 +32,7 @@ export const Category: React.FC<Props> = ({id}) => {
         dispatch(reset())
     }
 
-    useEffect(handleSelectCategory, [id, categories])
+    useEffect(handleSelectCategory, [id, categories, dispatch])
 
 
 
@@ -46,7 +46,7 @@ export const Category: React.FC<Props> = ({id}) => {
             {categories?.map(category =>{
                 return <li
                     key={category.id}
-                    className={selected?.id==category.id ? 'active' : ''}
+                    className={selected?.id === category.id ? 'active' : ''}
                 >
                     <Link to={`/category/${category.id}`}>{category.name}</Link>
                 </li>
